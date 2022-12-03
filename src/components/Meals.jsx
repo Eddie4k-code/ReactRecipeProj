@@ -37,7 +37,6 @@ const Meals = () => {
               <img className="img" onClick={() => selectMeal(m.idMeal)} src={m.strMealThumb} style={{ width: '200px', cursor: "pointer" }}></img>
               <footer>
                 <h5>{m.strMeal}</h5>
-                <button className='like-btn'>Like</button>
               </footer>
 
             </article>
