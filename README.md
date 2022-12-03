@@ -1,17 +1,12 @@
-## Running React on Repl.it
+<h1>Simple React Application that uses react features such as useContext to create a database of food recipes users can search for</h1>
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+![image](https://user-images.githubusercontent.com/98666468/205460050-db24a6d1-4de6-4d4e-9cd2-4af0f49a87cb.png)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+<div>
+<h1>Run App</h1>
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+<p>command to run app is "vite"</p>
 
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+</div>
