@@ -5,8 +5,4 @@
 
 
 <div>
-<h1>Run App</h1>
 
-<p>command to run app is "vite"</p>
-
-</div>
